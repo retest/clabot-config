@@ -16,6 +16,7 @@
 		"$$$ external $$$",
 
 		"$$$ tools $$$",
-		"dependabot-bot"
+		"dependabot-bot",
+		"dependabot-preview"
 	]
 }
