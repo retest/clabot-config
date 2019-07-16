@@ -1,11 +1,11 @@
 # Contributor Agreement
 
-Thank you for your interest in contributing to ReTest GmbH's **recheck.cli**
-project ("We" or "Us"). The purpose of this contributor agreement ("Agreement")
+Thank you for your interest in contributing to [ReTest GmbH's projects on GitHub](https://github.com/retest/)
+("We" or "Us"). The purpose of this contributor agreement ("Agreement")
 is to clarify and document the rights granted by contributors to Us.
 
-To make this document effective, ***please add yourself to the `.clabot`
-file*** in the root directory of the project.
+To make this document effective, ***please add your GitHub username to the
+`.clabot` file*** in the root directory of the project.
 
 ### How to use this Contributor Agreement
 
