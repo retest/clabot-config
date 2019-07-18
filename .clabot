@@ -18,7 +18,6 @@
 
 		"$$$ tools $$$",
 		"rebazer",
-		"dependabot-bot",
-		"dependabot-preview"
+		"dependabot-preview[bot]"
 	]
 }
