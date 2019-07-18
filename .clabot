@@ -17,6 +17,7 @@
 		"tdauth",
 
 		"$$$ tools $$$",
+		"rebazer",
 		"dependabot-bot",
 		"dependabot-preview"
 	]
