@@ -20,6 +20,7 @@
 
 		"$$$ tools $$$",
 		"rebazer",
-		"dependabot-preview[bot]"
+		"dependabot-preview[bot]",
+		"mergify[bot]"
 	]
 }
