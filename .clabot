@@ -1,7 +1,7 @@
 {
   "message": "Thank you for your pull request and welcome to our community. We require contributors to sign our [contributor license agreement (CLA)](https://github.com/retest/clabot-config/blob/master/Contributor-License-Agreement.md), and we don\"t seem to have the user(s) {{usersWithoutCLA}} on file. In order for us to review and merge your code, for each noted user ***please add your GitHub username to the [.clabot](https://github.com/retest/clabot-config/edit/master/.clabot) file***.",
   "contributors": [
- 		"$$$ retest $$$",
+ 		"$$$ retest staff $$$",
 		"roesslerj",
 		"martin-v",
 		"beatngu13",
@@ -12,6 +12,7 @@
 		"IgorAlbert",
 		"varunnayak26",
 		"Creepow",
+		"githubert",
 
 		"$$$ external $$$",
 		"briemla",
