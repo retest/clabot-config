@@ -24,6 +24,7 @@
 
 		"$$$ tools $$$",
 		"rebazer",
+		"dependabot[bot]",
 		"dependabot-preview[bot]",
 		"mergify[bot]"
 	]
