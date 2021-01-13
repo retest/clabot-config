@@ -1,6 +1,6 @@
 # Contributor Agreement
 
-Thank you for your interest in contributing to [ReTest GmbH's projects on GitHub](https://github.com/retest/)
+Thank you for your interest in contributing to [UBS Hainer GmbH's projects on GitHub](https://github.com/retest/)
 ("We" or "Us"). The purpose of this contributor agreement ("Agreement")
 is to clarify and document the rights granted by contributors to Us.
 
